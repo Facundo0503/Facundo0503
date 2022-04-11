@@ -1,6 +1,5 @@
-### Hi there 👋
 
-### Hi there , I'm Facundo Cabrera 
+### Hi there 👋, I'm Facundo Cabrera 
 
 
 ## I'm a student from Buenos Aires, Argentina.
