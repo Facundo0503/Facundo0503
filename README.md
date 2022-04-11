@@ -12,4 +12,4 @@
 <p> 😊 Reach me: https://www.linkedin.com/in/facundo-cabrera-2979a3233/</p>
 <p> 🦾 In my free time, i like to do the gym, sing and play competitive games.</p>
 
-[![Facundo GitHub stats](https://github-readme-stats.vercel.app/api?username=Facundo0503)](https://github.com/anuraghazra/github-readme-stats)
+[![Facundo GitHub stats](https://github-readme-stats.vercel.app/api?username=Facundo0503&?theme=dracula)](https://github.com/Facundo0503/github-readme-stats)
