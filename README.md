@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Facundo0503/Facundo0503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there , I'm Facundo Cabrera 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm a student from Buenos Aires, Argentina.
+
+
+
+
+<p> I'm currently studying the full stack developer career at NUCBA.</p>
+<p> I love being an active part of the tech community.I believe that learning from everybody and sharing your knowledge is a vital part of growing as a developer and also as a human being . </p>
+<p> Reach me: https://www.linkedin.com/in/facundo-cabrera-2979a3233/</p>
+<p> In my free time, i like to do the gym, sing and play competitive games.</p>
